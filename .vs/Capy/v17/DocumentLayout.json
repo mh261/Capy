@@ -1,0 +1,765 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\icapyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\icapyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\capyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\capyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\controllers\\capycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\controllers\\capycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\Capy.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\capyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\Capy.csproj|solutionrelative:capy\\models\\capyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\controllers\\adminoperationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\controllers\\adminoperationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\constants\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\constants\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\ihomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\ihomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\stockdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\stockdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\repositories\\homerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\repositories\\homerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\updateoderstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\updateoderstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\topsoldcapymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\topsoldcapymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\oderdetailsmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\oderdetailsmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\capydtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\capydtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\models\\dtos\\capydisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\models\\dtos\\capydisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\controllers\\userordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\controllers\\userordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|c:\\users\\hangm\\onedrive\\documents\\sa\\capy\\capy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D859143C-CAAA-423E-BDD7-696574153010}|Capy\\CapyShopping.csproj|solutionrelative:capy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CapyController.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\CapyController.cs",
+              "RelativeDocumentMoniker": "Capy\\Controllers\\CapyController.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\CapyController.cs",
+              "RelativeToolTip": "Capy\\Controllers\\CapyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:15:44.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Capy\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Capy\\Data\\DbSeeder.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:11:39.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Capy\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:44:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CapyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\CapyRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\CapyRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\CapyRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\CapyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:37:16.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICapyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\ICapyRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\ICapyRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\ICapyRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\ICapyRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:59:41.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:30:05.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "Capy\\Models\\OrderStatus.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:23:45.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Order.cs",
+              "RelativeToolTip": "Capy\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:23:11.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Genre.cs",
+              "RelativeToolTip": "Capy\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:22:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\CartDetails.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\CartDetails.cs",
+              "RelativeToolTip": "Capy\\Models\\CartDetails.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:22:27.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Capyy.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Capyy.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Capyy.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Capyy.cs",
+              "RelativeToolTip": "Capy\\Models\\Capyy.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:59:58.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Capy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Capy\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:16:38.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "Capy\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "Capy\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:16:32.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Capy\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Capy\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:16:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminOperationController.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\AdminOperationController.cs",
+              "RelativeDocumentMoniker": "Capy\\Controllers\\AdminOperationController.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\AdminOperationController.cs",
+              "RelativeToolTip": "Capy\\Controllers\\AdminOperationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:15:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "Capy\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Constants\\Roles.cs",
+              "RelativeToolTip": "Capy\\Constants\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:13:29.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Constants\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Capy\\Constants\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Constants\\PaymentMethod.cs",
+              "RelativeToolTip": "Capy\\Constants\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:13:53.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\StockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:31:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:30:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\GenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:29:41.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:29:33.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IHomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\IHomeRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\IHomeRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\IHomeRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\IHomeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:30:46.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StockDisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\StockDisplayModel.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\StockDisplayModel.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\StockDisplayModel.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\StockDisplayModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:52:17.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\CheckOut.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\CheckOut.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\CheckOut.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\CheckOut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:52:02.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\UserOrderRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\UserOrderRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\UserOrderRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\UserOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:31:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\HomeRepository.cs",
+              "RelativeDocumentMoniker": "Capy\\Repositories\\HomeRepository.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Repositories\\HomeRepository.cs",
+              "RelativeToolTip": "Capy\\Repositories\\HomeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:29:55.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Stocks.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Stocks.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Stocks.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Stocks.cs",
+              "RelativeToolTip": "Capy\\Models\\Stocks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:26:02.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Capy\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:24:17.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "Capy\\Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:23:29.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateOderStatusModel.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\UpdateOderStatusModel.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\UpdateOderStatusModel.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\UpdateOderStatusModel.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\UpdateOderStatusModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:53:05.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TopSoldCapyModel.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\TopSoldCapyModel.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\TopSoldCapyModel.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\TopSoldCapyModel.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\TopSoldCapyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:52:50.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\Stock.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\Stock.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\Stock.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:51:00.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OderDetailsModelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\OderDetailsModelDTO.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\OderDetailsModelDTO.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\OderDetailsModelDTO.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\OderDetailsModelDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:51:22.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\GenreDTO.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\GenreDTO.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\GenreDTO.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\GenreDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:50:44.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CapyDTOcs.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\CapyDTOcs.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\CapyDTOcs.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\CapyDTOcs.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\CapyDTOcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:50:22.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CapyDisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\CapyDisplayModel.cs",
+              "RelativeDocumentMoniker": "Capy\\Models\\Dtos\\CapyDisplayModel.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Models\\Dtos\\CapyDisplayModel.cs",
+              "RelativeToolTip": "Capy\\Models\\Dtos\\CapyDisplayModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:51:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Capy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Capy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:23:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\UserOrderController.cs",
+              "RelativeDocumentMoniker": "Capy\\Controllers\\UserOrderController.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\UserOrderController.cs",
+              "RelativeToolTip": "Capy\\Controllers\\UserOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:17:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Capy\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Capy\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:16:59.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Capy\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Capy\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:16:52.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Capy\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Capy\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-21T13:33:09.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\appsettings.json",
+              "RelativeDocumentMoniker": "Capy\\appsettings.json",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\appsettings.json",
+              "RelativeToolTip": "Capy\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T13:23:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Program.cs",
+              "RelativeDocumentMoniker": "Capy\\Program.cs",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Program.cs",
+              "RelativeToolTip": "Capy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:23:21.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Capy\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\appsettings.Development.json",
+              "RelativeToolTip": "Capy\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T13:23:18.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
