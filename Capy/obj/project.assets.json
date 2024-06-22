@@ -12062,24 +12062,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hangm\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Viper\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Capy.csproj",
+      "projectUniqueName": "D:\\Projects\\SA\\Capy\\Capy\\Capy.csproj",
       "projectName": "Capy",
-      "projectPath": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\Capy.csproj",
-      "packagesPath": "C:\\Users\\hangm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hangm\\OneDrive\\Documents\\SA\\Capy\\Capy\\obj\\",
+      "projectPath": "D:\\Projects\\SA\\Capy\\Capy\\Capy.csproj",
+      "packagesPath": "C:\\Users\\Viper\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\SA\\Capy\\Capy\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hangm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Viper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12151,6 +12146,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -12159,7 +12172,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

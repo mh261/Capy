@@ -289,3 +289,16 @@ C:\Users\hangm\OneDrive\Documents\SA\Capy\Capy\bin\Debug\net7.0\runtimes\win-arm
 C:\Users\hangm\OneDrive\Documents\SA\Capy\Capy\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\hangm\OneDrive\Documents\SA\Capy\Capy\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\hangm\OneDrive\Documents\SA\Capy\Capy\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.csproj.AssemblyReference.cache
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.AssemblyInfoInputs.cache
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.AssemblyInfo.cs
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.csproj.CoreCompileInputs.cache
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.RazorAssemblyInfo.cache
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.RazorAssemblyInfo.cs
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.sourcelink.json
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.dll
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\refint\Capy.dll
+D:\Projects\SA\Capy\Capy\obj\Debug\net7.0\Capy.pdb

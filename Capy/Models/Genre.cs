@@ -2,7 +2,6 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace Capy.Models
-
 {
     [Table("Genre")]
     public class Genre

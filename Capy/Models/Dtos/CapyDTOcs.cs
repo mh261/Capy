@@ -7,7 +7,7 @@ namespace Capy.Models.Dtos
     {
         public int Id { get; set; }
         [Required]
-        [MaxLength(40]
+        [MaxLength(40)]
 
         public string? CapyName  { get; set; }
         [Required]

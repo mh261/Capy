@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Capy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11db06c74abc3487530802618db2282596bac8dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Capy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Capy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
