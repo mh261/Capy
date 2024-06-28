@@ -18,12 +18,19 @@ public class AdminOperationController
         return instance;
     }
 
-    //  Generate SessionID for the user based on 
+    //  Generate SessionID for the user based on date/time and admin ID
+    //  with the following format: ID_YYYYMMDDHHMMSS
     private String CreateSessionId()
     {
-        String date = DateTime.Now.ToString();
-        String dateId = "";
+        // get admin ID from the session
+        // change testID to the actual admin ID fetched from DB
+        String adminId = "testID";
 
+        String date = DateTime.Now.ToString();
+        String sessionId = adminId + "_";
+        
+
+        //  join date and time into a continuous string with no space/symbols to create a unique sessionId
         for (int i = 0; i < date.Length; i++)
         {
             if (date[i] == '/' || date[i] == ' ' || date[i] == ':')
@@ -32,10 +39,10 @@ public class AdminOperationController
             }
             else
             {
-                dateId += date[i];
+                sessionId += date[i];
             }
         }
 
-        return dateId;
+        return sessionId;
     }
 }
